@@ -24,3 +24,8 @@
   sections:
   - local: chapter3/1
     title: Giriş
+
+- title: 4. Modelleri ve tokenizer'ları paylaşma
+  sections:
+  - local: chapter4/1
+    title: Hugging Face Hub
